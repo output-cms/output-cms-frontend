@@ -10,7 +10,9 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "next": "13.4.2"
+    "@types/recoil": "^0.0.9",
+    "next": "13.4.2",
+    "recoil": "^0.7.7"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.6.3",
